@@ -84,6 +84,7 @@ const guildMemberAdd = createEvent(Events.GuildMemberAdd, async (member) => {
         logger.error('Erro ao processar novo membro:', error);
     }
 });
+console.log(guildMemberAdd);
 
 // Evento para quando um membro sai do servidor
 const guildMemberRemove = createEvent(Events.GuildMemberRemove, async (member) => {
@@ -102,6 +103,7 @@ const guildMemberRemove = createEvent(Events.GuildMemberRemove, async (member) =
         logger.error('Erro ao processar saída de membro:', error);
     }
 });
+console.log(guildMemberRemove);
 
 // Função para criar embed de log de atualização de membros
 function createMemberUpdateEmbed(guildConfig, oldMember, newMember, addedRoles, removedRoles) {
@@ -160,6 +162,7 @@ const guildMemberUpdate = createEvent(Events.GuildMemberUpdate, async (oldMember
         logger.error('Erro ao processar atualização de membro:', error);
     }
 });
+console.log(guildMemberUpdate);
 
 // Evento para quando um membro é banido
 const guildBanAdd = createEvent(Events.GuildBanAdd, async (ban) => {
@@ -180,6 +183,7 @@ const guildBanAdd = createEvent(Events.GuildBanAdd, async (ban) => {
         logger.error('Erro ao processar banimento de membro:', error);
     }
 });
+console.log(guildBanAdd);
 
 // Evento para quando um membro é desbanido
 const guildBanRemove = createEvent(Events.GuildBanRemove, async (ban) => {
@@ -200,12 +204,13 @@ const guildBanRemove = createEvent(Events.GuildBanRemove, async (ban) => {
         logger.error('Erro ao processar desbanimento de membro:', error);
     }
 });
+console.log(guildBanRemove);
 
 // Exportando os eventos
 export default [
     guildMemberAdd,
     guildMemberRemove,
+    guildMemberUpdate,
     guildBanAdd,
-    guildBanRemove,
-    guildMemberUpdate
+    guildBanRemove
 ];

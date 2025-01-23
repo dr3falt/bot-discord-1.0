@@ -190,7 +190,6 @@ const messageReactionRemove = createEvent(Events.MessageReactionRemove, async (r
     }
 });
 
-// Exporte os eventos
 export default [
     messageReactionAdd,
     messageReactionRemove
