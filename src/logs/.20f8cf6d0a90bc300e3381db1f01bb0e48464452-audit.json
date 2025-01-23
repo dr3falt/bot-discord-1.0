@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\Pablo\\Desktop\\bot oficial group vendas\\src\\logs\\.20f8cf6d0a90bc300e3381db1f01bb0e48464452-audit.json",
+    "files": [
+        {
+            "date": 1737114583979,
+            "name": "C:\\Users\\Pablo\\Desktop\\bot oficial group vendas\\src\\logs\\combined-2025-01-17.log",
+            "hash": "2da98123dcc736c25aa579399591c9c04c944a804b0140b8a54113a698c706ca"
+        },
+        {
+            "date": 1737173420825,
+            "name": "C:\\Users\\Pablo\\Desktop\\bot oficial group vendas\\src\\logs\\combined-2025-01-18.log",
+            "hash": "05691d17a0d7bf9dfc3640e05531c8606754f2b0c4db85e75387ff31028f7484"
+        },
+        {
+            "date": 1737437814336,
+            "name": "C:\\Users\\Pablo\\Desktop\\bot oficial group vendas\\src\\logs\\combined-2025-01-21.log",
+            "hash": "5f41926f285e418efa780d01f851ab7a5b2c4582b208cf58c45d7d2f56e58b13"
+        },
+        {
+            "date": 1737520364342,
+            "name": "C:\\Users\\Pablo\\Desktop\\bot oficial group vendas\\src\\logs\\combined-2025-01-22.log",
+            "hash": "b18f490e29d96ebc98b0e6c3e2df5ad6a9442ee680bdeb24eb866bbeac7fe98e"
+        }
+    ],
+    "hashType": "sha256"
+}

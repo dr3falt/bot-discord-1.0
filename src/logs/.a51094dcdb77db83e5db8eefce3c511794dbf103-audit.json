@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\Pablo\\Desktop\\bot oficial group vendas\\src\\logs\\.a51094dcdb77db83e5db8eefce3c511794dbf103-audit.json",
+    "files": [
+        {
+            "date": 1737114583969,
+            "name": "C:\\Users\\Pablo\\Desktop\\bot oficial group vendas\\src\\logs\\error-2025-01-17.log",
+            "hash": "783ad2571bc425ab43c40ff7da6c615b685d1710b893e9973ef4492b05a886e4"
+        },
+        {
+            "date": 1737173420810,
+            "name": "C:\\Users\\Pablo\\Desktop\\bot oficial group vendas\\src\\logs\\error-2025-01-18.log",
+            "hash": "31082bda6270a1dc41adb72497262bb968a9046582f39b294d7de206b623d465"
+        },
+        {
+            "date": 1737437814323,
+            "name": "C:\\Users\\Pablo\\Desktop\\bot oficial group vendas\\src\\logs\\error-2025-01-21.log",
+            "hash": "748efd996f93338fd8e9b20322f49431cf19dbf2d9d8b095ad7009e7cd108a00"
+        },
+        {
+            "date": 1737520364333,
+            "name": "C:\\Users\\Pablo\\Desktop\\bot oficial group vendas\\src\\logs\\error-2025-01-22.log",
+            "hash": "833e7d54d0e5fba1150bf276af21bb56f90bceb089733d6fa617d863688500fd"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,48 @@
+{
+    "antiLink": {
+        "enabled": false,
+        "whitelistedChannels": [],
+        "whitelistedRoles": [],
+        "whitelistedDomains": [],
+        "punishment": "delete",
+        "warnMessage": true
+    },
+    "antiSpam": {
+        "enabled": false,
+        "maxMessages": 5,
+        "timeWindow": 5000,
+        "whitelistedChannels": [],
+        "whitelistedRoles": [],
+        "punishment": "delete",
+        "warnMessage": true,
+        "autoMute": false,
+        "muteDuration": 300000
+    },
+    "antiRaid": {
+        "enabled": false,
+        "maxMentions": 3,
+        "whitelistedRoles": [],
+        "punishment": "delete",
+        "warnMessage": true,
+        "autoMute": false,
+        "muteDuration": 300000
+    },
+    "channelLock": {
+        "schedules": [],
+        "lockMessage": true,
+        "unlockMessage": true,
+        "logToChannel": true
+    },
+    "punishments": {
+        "warnings": {},
+        "mutes": {},
+        "lastPunishment": {}
+    },
+    "1260345846059372714": {
+        "antiLink": {
+            "enabled": true,
+            "whitelistedChannels": [],
+            "whitelistedUsers": []
+        }
+    }
+}

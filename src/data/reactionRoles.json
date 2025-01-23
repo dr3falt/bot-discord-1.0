@@ -1,0 +1,32 @@
+{
+    "messages": [
+        {
+            "roles": [
+                {
+                    "roleId": "1327440870802456576",
+                    "emoji": "👍",
+                    "label": "Membro"
+                }
+            ],
+            "type": "reaction",
+            "embed": {
+                "title": "teste",
+                "description": "teste",
+                "color": 3092790,
+                "footer": {
+                    "text": "Reaja com os emojis abaixo para receber/remover os cargos"
+                },
+                "fields": [
+                    {
+                        "name": "👍",
+                        "value": "<@&1327440870802456576>",
+                        "inline": true
+                    }
+                ]
+            },
+            "messageId": "1327656120369680394",
+            "channelId": "1327456247607197797",
+            "guildId": "1222992555646386228"
+        }
+    ]
+}

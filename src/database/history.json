@@ -1,0 +1,90 @@
+{
+    "1222992555646386228": {
+        "commands": [
+            {
+                "category": "commands",
+                "type": "command_used",
+                "userId": "693689841665310770",
+                "commandName": "say",
+                "options": {
+                    "mensagem": "teste"
+                },
+                "timestamp": 1737440135031
+            },
+            {
+                "category": "commands",
+                "type": "command_used",
+                "userId": "693689841665310770",
+                "commandName": "setperms",
+                "options": {},
+                "timestamp": 1737440129556
+            },
+            {
+                "category": "commands",
+                "type": "command_used",
+                "userId": "693689841665310770",
+                "commandName": "setperm",
+                "options": {},
+                "timestamp": 1737440109881
+            },
+            {
+                "category": "commands",
+                "type": "command_used",
+                "userId": "693689841665310770",
+                "commandName": "say",
+                "options": {
+                    "mensagem": "2"
+                },
+                "timestamp": 1737440074506
+            },
+            {
+                "category": "commands",
+                "type": "command_used",
+                "userId": "693689841665310770",
+                "commandName": "setperms",
+                "options": {},
+                "timestamp": 1737439929670
+            },
+            {
+                "category": "commands",
+                "type": "command_used",
+                "userId": "693689841665310770",
+                "commandName": "setowner",
+                "options": {
+                    "usuario": "693689841665310770"
+                },
+                "timestamp": 1737439900974
+            },
+            {
+                "category": "commands",
+                "type": "command_used",
+                "userId": "693689841665310770",
+                "commandName": "say",
+                "options": {
+                    "mensagem": "1"
+                },
+                "timestamp": 1737439883089
+            },
+            {
+                "category": "commands",
+                "type": "command_used",
+                "userId": "693689841665310770",
+                "commandName": "verification",
+                "options": {},
+                "timestamp": 1737079814366
+            }
+        ],
+        "interactions": [
+            {
+                "category": "interactions",
+                "type": "button",
+                "userId": "693689841665310770",
+                "customId": "verify_button",
+                "message": "",
+                "timestamp": 1737079822285
+            }
+        ],
+        "configurations": [],
+        "moderation": []
+    }
+}

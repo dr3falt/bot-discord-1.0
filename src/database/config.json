@@ -1,0 +1,355 @@
+{
+    "general": {
+        "prefix": "!",
+        "embedColor": "#0099ff",
+        "version": "1.0.0",
+        "CLIENT_ID": "1308947943876853761"
+    },
+    "status": [
+        {
+            "type": "Custom",
+            "text": "Protegendo seu servidor "
+        },
+        {
+            "type": "Custom",
+            "text": "Ocupado "
+        },
+        {
+            "type": "Custom",
+            "text": "seus comandos "
+        },
+        {
+            "type": "Custom",
+            "text": "Security System "
+        }
+    ],
+    "guilds": {
+        "1260345846059372714": {
+            "prefix": "!",
+            "welcome": {
+                "enabled": false,
+                "channelId": null,
+                "message": "Bem-vindo(a) {user} ao {server}!"
+            },
+            "leave": {
+                "enabled": false,
+                "channelId": null,
+                "message": "At mais, {user}!"
+            },
+            "autoRole": {
+                "enabled": false,
+                "roleId": null
+            },
+            "verification": {
+                "enabled": false,
+                "roleId": null,
+                "dmMessage": null
+            },
+            "logs": {
+                "enabled": false,
+                "channelId": null
+            },
+            "moderation": {
+                "antiSpam": {
+                    "enabled": false,
+                    "maxMessages": 5,
+                    "timeWindow": 5000,
+                    "punishment": "delete"
+                },
+                "antiRaid": {
+                    "enabled": false,
+                    "joinLimit": 5,
+                    "timeWindow": 10000,
+                    "action": "kick"
+                },
+                "autoMod": {
+                    "enabled": false,
+                    "filters": {
+                        "invites": false,
+                        "links": false,
+                        "massMention": false,
+                        "caps": false
+                    }
+                }
+            }
+        },
+        "1318232918115749899": {
+            "prefix": "!",
+            "welcome": {
+                "enabled": false,
+                "channelId": null,
+                "message": "Bem-vindo(a) {user} ao {server}!"
+            },
+            "leave": {
+                "enabled": false,
+                "channelId": null,
+                "message": "At mais, {user}!"
+            },
+            "autoRole": {
+                "enabled": false,
+                "roleId": null
+            },
+            "verification": {
+                "enabled": false,
+                "roleId": null,
+                "dmMessage": null
+            },
+            "logs": {
+                "enabled": false,
+                "channelId": null
+            },
+            "moderation": {
+                "automod": {
+                    "links": {
+                        "enabled": false,
+                        "allowedDomains": []
+                    },
+                    "spam": {
+                        "enabled": false,
+                        "maxMessages": 5,
+                        "timeWindow": 5000
+                    },
+                    "invites": {
+                        "enabled": false
+                    }
+                }
+            },
+            "permissions": {
+                "users": {
+                    "693689841665310770": {
+                        "commands": [
+                            "all"
+                        ],
+                        "roles": []
+                    },
+                    "1322584752527511563": {
+                        "commands": [
+                            "list"
+                        ],
+                        "roles": []
+                    }
+                }
+            },
+            "autorole": {
+                "enabled": true,
+                "roleId": "1318377139321704509"
+            }
+        }
+    },
+    "1318232918115749899": {
+        "prefix": "!",
+        "welcome": {
+            "enabled": false,
+            "channelId": null,
+            "message": "Bem-vindo(a) {user} ao {server}!"
+        },
+        "leave": {
+            "enabled": false,
+            "channelId": null,
+            "message": "Até mais, {user}!"
+        },
+        "autoRole": {
+            "enabled": false,
+            "roleId": null
+        },
+        "verification": {
+            "enabled": false,
+            "roleId": null,
+            "dmMessage": null
+        },
+        "logs": {
+            "enabled": false,
+            "channelId": null
+        },
+        "automod": {
+            "links": {
+                "enabled": false,
+                "allowedDomains": []
+            },
+            "spam": {
+                "enabled": false,
+                "maxMessages": 5,
+                "timeWindow": 5000
+            },
+            "invites": {
+                "enabled": false
+            }
+        }
+    },
+    "1260345846059372714": {
+        "prefix": "!",
+        "welcome": {
+            "enabled": false,
+            "channelId": null,
+            "message": "Bem-vindo(a) {user} ao {server}!"
+        },
+        "leave": {
+            "enabled": false,
+            "channelId": null,
+            "message": "Até mais, {user}!"
+        },
+        "autoRole": {
+            "enabled": false,
+            "roleId": null
+        },
+        "verification": {
+            "enabled": false,
+            "roleId": null,
+            "dmMessage": null
+        },
+        "logs": {
+            "enabled": false,
+            "channelId": null
+        },
+        "automod": {
+            "links": {
+                "enabled": false,
+                "allowedDomains": []
+            },
+            "spam": {
+                "enabled": false,
+                "maxMessages": 5,
+                "timeWindow": 5000
+            },
+            "invites": {
+                "enabled": false
+            }
+        }
+    },
+    "1326987064180477985": {
+        "prefix": "!",
+        "welcome": {
+            "enabled": false,
+            "channelId": null,
+            "message": "Bem-vindo(a) {user} ao {server}!"
+        },
+        "leave": {
+            "enabled": false,
+            "channelId": null,
+            "message": "Até mais, {user}!"
+        },
+        "autoRole": {
+            "enabled": false,
+            "roleId": null
+        },
+        "verification": {
+            "enabled": false,
+            "roleId": null,
+            "dmMessage": null
+        },
+        "logs": {
+            "enabled": false,
+            "channelId": null
+        },
+        "automod": {
+            "links": {
+                "enabled": false,
+                "allowedDomains": []
+            },
+            "spam": {
+                "enabled": false,
+                "maxMessages": 5,
+                "timeWindow": 5000
+            },
+            "invites": {
+                "enabled": false
+            }
+        }
+    },
+    "1222992555646386228": {
+        "prefix": "!",
+        "welcome": {
+            "enabled": true,
+            "channelId": "1327466214833782794",
+            "type": "embed_simple",
+            "message": "Bem-VIndo ao servidor {user}\nolhe as Regras",
+            "title": "Bem-vindo(a)!",
+            "color": "#2ecc71",
+            "banner": null,
+            "thumbnail": null,
+            "footer": null,
+            "footerIcon": null,
+            "author": null,
+            "authorIcon": null,
+            "fields": []
+        },
+        "leave": {
+            "enabled": false,
+            "channelId": null,
+            "message": "Até mais, {user}!"
+        },
+        "autoRole": {
+            "enabled": true,
+            "roleId": "1327440870802456576"
+        },
+        "verification": {
+            "enabled": true,
+            "roleId": "1327440870802456576",
+            "channelId": "1327470515077517384",
+            "messageTitle": "Verificação",
+            "messageDescription": "sistema de verificação"
+        },
+        "logs": {
+            "enabled": false,
+            "channelId": null
+        },
+        "automod": {
+            "links": {
+                "enabled": false,
+                "allowedDomains": []
+            },
+            "spam": {
+                "enabled": false,
+                "maxMessages": 5,
+                "timeWindow": 5000
+            },
+            "invites": {
+                "enabled": false
+            }
+        },
+        "autorole": {
+            "enabled": true,
+            "roleId": "1327472186973225052"
+        }
+    },
+    "1318250153412395089": {
+        "prefix": "!",
+        "welcome": {
+            "enabled": false,
+            "channelId": null,
+            "message": "Bem-vindo(a) {user} ao {server}!"
+        },
+        "leave": {
+            "enabled": false,
+            "channelId": null,
+            "message": "Até mais, {user}!"
+        },
+        "autoRole": {
+            "enabled": false,
+            "roleId": null
+        },
+        "verification": {
+            "enabled": false,
+            "roleId": null,
+            "dmMessage": null
+        },
+        "logs": {
+            "enabled": false,
+            "channelId": null
+        },
+        "automod": {
+            "links": {
+                "enabled": false,
+                "allowedDomains": []
+            },
+            "spam": {
+                "enabled": false,
+                "maxMessages": 5,
+                "timeWindow": 5000
+            },
+            "invites": {
+                "enabled": false
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "1318232918115749899": [
+        {
+            "type": "clear",
+            "channelId": "1318377141368262668",
+            "moderatorId": "693689841665310770",
+            "messagesDeleted": 22,
+            "date": "2025-01-07T05:12:20.671Z"
+        },
+        {
+            "type": "clear",
+            "channelId": "1318377141368262668",
+            "moderatorId": "693689841665310770",
+            "messagesDeleted": 11,
+            "date": "2025-01-07T22:55:53.285Z"
+        }
+    ],
+    "1260345846059372714": [
+        {
+            "type": "clear",
+            "channelId": "1319373289872691251",
+            "moderatorId": "1256456032969035820",
+            "messagesDeleted": 4,
+            "date": "2025-01-10T05:40:43.534Z"
+        },
+        {
+            "type": "clear",
+            "channelId": "1319373289872691251",
+            "moderatorId": "1256456032969035820",
+            "messagesDeleted": 2,
+            "date": "2025-01-10T05:40:56.621Z"
+        },
+        {
+            "type": "clear",
+            "channelId": "1314442623997444176",
+            "moderatorId": "1256456032969035820",
+            "messagesDeleted": 0,
+            "date": "2025-01-10T05:41:40.597Z"
+        }
+    ],
+    "1222992555646386228": [
+        {
+            "type": "clear",
+            "channelId": "1327412372851265607",
+            "moderatorId": "693689841665310770",
+            "messagesDeleted": 7,
+            "date": "2025-01-11T01:09:47.214Z"
+        },
+        {
+            "type": "clear",
+            "channelId": "1327412372851265607",
+            "moderatorId": "693689841665310770",
+            "messagesDeleted": 2,
+            "date": "2025-01-11T01:12:10.920Z"
+        },
+        {
+            "type": "clear",
+            "channelId": "1328545035737763840",
+            "moderatorId": "693689841665310770",
+            "messagesDeleted": 3,
+            "date": "2025-01-14T02:07:40.617Z"
+        },
+        {
+            "type": "clear",
+            "channelId": "1327457846421491712",
+            "moderatorId": "693689841665310770",
+            "messagesDeleted": 2,
+            "date": "2025-01-15T05:37:18.133Z"
+        }
+    ]
+}

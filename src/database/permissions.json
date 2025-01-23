@@ -1,0 +1,30 @@
+{
+    "ownerId": "1256456032969035820",
+    "adminRoles": [],
+    "modRoles": [],
+    "helperRoles": [],
+    "adminIds": [
+        "1256456032969035820"
+    ],
+    "modIds": [],
+    "helperIds": [],
+    "1222992555646386228": {
+        "ownerId": "1256456032969035820",
+        "adminRoles": [],
+        "modRoles": [],
+        "helperRoles": [],
+        "adminIds": [
+            "1256456032969035820"
+        ],
+        "modIds": [],
+        "helperIds": []
+    },
+    "users": {},
+    "roles": {
+        "1327440893359427594": {
+            "commands": [
+                "say"
+            ]
+        }
+    }
+}
